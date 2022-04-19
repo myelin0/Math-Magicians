@@ -6,7 +6,7 @@
     - Read a random quote.
 
 ## Screenshot
-(Coming soon ...)
+(Coming soon ... :))
 
 ## Built With
 
@@ -99,7 +99,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/myelin0/Math-Magicians/issues).
 
 ## Show your support
 
