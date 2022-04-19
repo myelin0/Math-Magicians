@@ -3,10 +3,10 @@
 - "Math Magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
     - Make simple calculations.
-    - Read a random math-related quote.
+    - Read a random quote.
 
 ## Screenshot
-![screenshot](./screenshot.png)
+(Coming soon ...)
 
 ## Built With
 
@@ -17,8 +17,9 @@
   - React
 
 ### - Technologies used:
-  - npm
+  - Npm
   - Webpack
+  - Babel
 
 ## Learning objectives
 
@@ -33,8 +34,8 @@
 
 ## Live Demo
 
-[View on Heroku](https://math-macicians.herokuapp.com/) <br/>
-[View on Netlify](https://friendly-shaw-0722e4.netlify.app/)
+[View on Heroku](Coming soon..) <br/>
+[View on Netlify](Coming soon..)
 
 ## Getting Started
 
@@ -52,9 +53,6 @@ Npm
 <code>
 $ npm Install
 </code>
-
--If there is a "Failed to initialize watch plugin "node_modules/jest-watch-typeahead/filename.js": please:
-npm i -D --exact jest-watch-typeahead@0.6.5
 
 -For testing please use: npm run test
 
@@ -97,16 +95,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 - Twitter: [@Amy_Albania](https://twitter.com/Amy_albania)
 - LinkedIn: [@Emirjeta Veisllari](https://www.linkedin.com/in/emirjeta-veisllari/)
 
-👤 **STEVE W DAMES JR**
-
-- GitHub: [@githubhandle](https://github.com/steveWDamesJr)
-- Twitter: [@twitterhandle](https://twitter.com/Steve88312331)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/steve-w-dames-jr/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/myelin0/Math-macicians/issues).
+Feel free to check the [issues page]().
 
 ## Show your support
 
