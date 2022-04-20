@@ -21,9 +21,9 @@
 .input > button {
   cursor: pointer;
   font-size: 1rem;
-  border: 1px solid rgb(186,186,186);
+  border: 1px solid rgb(186, 186, 186);
   outline: none;
-  background-color: #E0E0E0;
+  background-color: #e0e0e0;
   padding: 0.2rem;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .input > button.orange {
-  background-color: #F5913E;
+  background-color: #f5913e;
   color: black;
 }
 
@@ -42,7 +42,7 @@
 }
 
 .output {
-  background-color:#858694 ;
+  background-color: #858694;
   height: 70px;
   grid-column: 1/3;
   color: white;
