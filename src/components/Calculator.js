@@ -1,18 +1,38 @@
 import React from 'react';
+import calculate from '../logic/calculate';
 
 class Calculator extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = {
+      total: '0',
+      next: null,
+      operation: null,
+    };
+    this.clickHandler = this.clickHandler.bind(this);
   }
 
+  clickHandler = (e) => {
+    const data = calculate(this.state, e.target.innerText);
+    this.setState(data);
+  };
+
   render() {
+    const { total, operation, next } = this.state;
     return (
       <>
         <div className="container">
           <div className="calc-grid">
-            <div className="output">0</div>
-            <div className="input">
+            <div className="output">
+              {`${total || ''} ${operation || ''} ${next || ''}`}
+            </div>
+            <div
+              className="input"
+              role="button"
+              tabIndex={0}
+              onClick={this.clickHandler}
+              onKeyDown={this.clickHandler}
+            >
               <button type="button">AC</button>
               <button type="button">+/-</button>
               <button type="button">%</button>
