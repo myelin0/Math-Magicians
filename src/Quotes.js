@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+// import { FaTwitter } from 'react-icons/fa';
 
 const Quote = () => {
   const [quotes, setQuotes] = useState([]);
