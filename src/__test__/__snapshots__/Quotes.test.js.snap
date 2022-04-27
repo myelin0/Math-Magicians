@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="quote"
+>
+  <h2>
+    Get motivated with new quote
+  </h2>
+  <p
+    className="quote-body"
+  />
+  <strong>
+     
+    ~
+    anonyme
+  </strong>
+  <div
+    className="btnContainer"
+  >
+    <button
+      className="btn btn-warning"
+      onClick={[Function]}
+      type="button"
+    >
+      Get Quote
+    </button>
+    <a
+      className="btn btn-warning"
+      href="http://twitter.com/intent/tweet?text=undefined"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      tweet
+      <i
+        className="fa fa-twitter"
+        style={
+          Object {
+            "color": "#1DA1F2",
+            "fontSize": "16px",
+            "marginLeft": "5px",
+          }
+        }
+      />
+    </a>
+  </div>
+</div>
+`;
