@@ -6,7 +6,7 @@
     - Read a random quote.
 
 ## Screenshot
-(Coming soon ... :))
+![screenshot](mathmagicians2.herokuapp.png)
 
 ## Built With
 
@@ -34,8 +34,8 @@
 
 ## Live Demo
 
-[View on Heroku](Coming soon..) <br/>
-[View on Netlify](Coming soon..)
+[View on Heroku](https://mathmagicians2.herokuapp.com/) <br/>
+[View on Netlify](https://math-magicians2.netlify.app/)
 
 ## Getting Started
 
